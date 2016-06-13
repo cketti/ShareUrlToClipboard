@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Share URL to Clipboard</string>
+    <string name="app_intro_text"><![CDATA[
+    <p>This app demonstrates how to add a &quot;Copy link to clipboard&quot; option to the Share dialog.</p>
+    Read the accompanying <a href="http://cketti.de/2016/06/14/share-url-to-clipboard/">blog post</a> to learn more.]]></string>
+    <string name="copy_link_to_clipboard">Copy link to clipboard</string>
+    <string name="link_copied_to_clipboard">Link copied to clipboard</string>
+    <string name="share_intro_text">hey kids check out this cool link</string>
+    <string name="action_share">Share</string>
+</resources>
